@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Basics Codelab</string>
+    <string name="button_to_expand_card">Button to expand card</string>
+    <string name="button_to_collapse_card">Button to collapse card</string>
+    <string name="continue_button_text">Continue</string>
+    <string name="onboarding_title">Welcome to the Basics Codelab!</string>
+    <string name="card_title">Hello</string>
+    <string name="card_content">"Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum "</string>
 </resources>
